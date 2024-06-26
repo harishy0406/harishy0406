@@ -9,9 +9,7 @@
 - 🔭 I’m currently working on [HarishPortfolio](https://github.com/harishy0406/HarishPortfolio)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/harishy0406](https://github.com/harishy0406)
-
+  
 - 💬 Ask me about **Java,Python,C,C++,HTML,CSS,AI tools**
 
 - 📫 How to reach me **harivelgm76@gmail.com**
