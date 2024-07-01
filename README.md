@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishy0406&label=Profile%20views&color=0e75b6&style=flat" alt="harishy0406" /> </p>
 
 
-- 🔭 I’m currently working on [HarishPortfolio](https://github.com/harishy0406/HarishPortfolio)
+- 🔭 I’m currently working on [CodSoft Web Dev Intership](https://github.com/harishy0406/CODSOFT)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
   
