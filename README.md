@@ -22,7 +22,7 @@
 <a href="https://twitter.com/harishy0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harishy0406" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mharishy46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mharishy46" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/harishy0406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="harishy0406" height="30" width="40" /></a>
-<a href="https://instagram.com/harish_gautham07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harish_gautham07" height="30" width="40" /></a>
+<a href="https://instagram.com/harishjr77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harish_gautham07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
