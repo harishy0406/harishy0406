@@ -2,7 +2,7 @@
 <h4 align="center">Software Engineering student skilled in Python, C++, and SQL with strong foundations in AI/ML, LLMs, and system design. Experienced in building scalable AI/ML pipelines, RAG-based applications, and FastAPI backend systems. Focused on developing production-ready AI solutions for real-time analytics & data-driven decision making.</h4>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishy0406" width="600" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishy0406" width="400" />
 </p>
 
 - 🔭 I’m currently working on [PruneVision-AI](https://github.com/harishy0406/PruneVision-AI)
@@ -127,9 +127,6 @@ width="28" style="display:inline-block; margin-right:8px;" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="28" style="display:inline-block; margin-right:8px;" />
 </a>
 
-<a href="https://reactnative.dev/">
-<img src="https://reactnative.dev/img/header_logo.svg" width="28" style="display:inline-block; margin-right:8px;" />
-</a>
 
 <a href="https://scikit-learn.org/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="28" style="display:inline-block; margin-right:8px;" />
@@ -149,4 +146,3 @@ width="28" style="display:inline-block; margin-right:8px;" />
 </a>
 
 </div>
----
