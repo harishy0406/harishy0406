@@ -43,10 +43,6 @@ width="28" style="display:inline-block; margin-right:8px;" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="28" style="display:inline-block; margin-right:8px;" />
 </a>
 
-<a href="https://firebase.google.com/">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="28" style="display:inline-block; margin-right:8px;" />
-</a>
-
 <a href="https://cloud.google.com">
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="28" style="display:inline-block; margin-right:8px;" />
 </a>
@@ -87,9 +83,6 @@ width="28" style="display:inline-block; margin-right:8px;" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="28" style="display:inline-block; margin-right:8px;" />
 </a>
 
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="28" style="display:inline-block; margin-right:8px;" />
-</a>
 
 <a href="https://www.nginx.com">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="28" style="display:inline-block; margin-right:8px;" />
