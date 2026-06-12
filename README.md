@@ -5,7 +5,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishy0406" width="400" />
 </p>
 
-- 🔭 I’m currently working on [PruneVision-AI](https://github.com/harishy0406/PruneVision-AI)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **LLMs, RAG, AI-Automations**
 
