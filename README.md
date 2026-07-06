@@ -5,26 +5,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishy0406" width="400" />
 </p>
 
-- 🔭 I’m currently working on 
-
-- 🌱 I’m currently learning **LLMs, RAG, AI-Automations**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/harishy0406/)
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/mharishy46/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-width="28" style="display:inline-block; margin-right:8px;" />
-</a>
-
-<a href="https://www.instagram.com/harishjr77/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-width="28" style="display:inline-block; margin-right:8px;" />
-</a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
