@@ -118,8 +118,3 @@
 </a>
 </div>
 
-
-<a href="https://github.com/harishy0406">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishy0406&theme=github-dark&hide_border=true&bg_color=0D1117&color=c9d1d9&line=7c3aed&point=ec4899&area=true&area_color=7c3aed" width="98%" alt="Contribution Graph" />
-</a>
-
