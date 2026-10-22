@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M HARISH GAUTHAM</h1>
-<h4 align="center">Software Engineering student skilled in Python, C++, and SQL with strong foundations in AI/ML, LLMs, and system design. Experienced in building scalable AI/ML pipelines, RAG-based applications, and FastAPI backend systems. Focused on developing production-ready AI solutions for real-time analytics & data-driven decision making.</h4>
+<h4 align="center">Software Engineering student skilled in Python, Golang, C++, and SQL with strong foundations in AI/ML, LLMs, and system design. Experienced in building scalable AI/ML pipelines, RAG-based applications, and FastAPI backend systems. Focused on developing production-ready AI solutions for real-time analytics & data-driven decision making.</h4>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishy0406" width="400" />
